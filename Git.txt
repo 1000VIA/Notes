@@ -1,0 +1,9 @@
+1. Abre la terminal y navega con el comando “cd” a la carpeta de tu proyecto.
+2. Dentro de tu proyecto escribe: $git init
+3. Agrega los archivos a tu nuevo repositorio local utilizando el siguiente comando (no olvides el punto después de “add”): $git add .
+4. Para entender el siguiente paso, es necesario entender el significado de “commit”. Commit es un comando que va creando distintas versiones del proyecto. Conforme vayamos avanzando, creando nuevos archivos y mejorando el proyecto, podemos ir guardando las distintas versiones en github, para esto será necesario que hagamos un commit cada ves que queramos crear una nueva versión. Utilizando el siguiente código: $git commit -m “version1.0″
+5. Ahora, es necesario en la terminal ir al repositorio git (la carpeta del proyecto) y estando dentro pegar el siguiente código: $git remote add origin https://github.com/usuario/repositorio
+6. Ahora, es necesario poner el siguiente código: $ git remote -v
+7. El ultimo paso escribir en la terminal: $ git push origin masterz
+
+https://elbauldelprogramador.com/mini-tutorial-y-chuleta-de-comandos-git/ 
