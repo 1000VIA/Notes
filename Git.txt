@@ -1,3 +1,5 @@
+Importante:  https://raw.githubusercontent.com/4rturd13/html-css-project/master/images/mockup.png para subir imagenes de GitHub
+
 1. Abre la terminal y navega con el comando “cd” a la carpeta de tu proyecto.
 2. Dentro de tu proyecto escribe: $git init
 3. Agrega los archivos a tu nuevo repositorio local utilizando el siguiente comando (no olvides el punto después de “add”): $git add .
@@ -7,3 +9,5 @@
 7. El ultimo paso escribir en la terminal: $ git push origin masterz
 
 https://elbauldelprogramador.com/mini-tutorial-y-chuleta-de-comandos-git/ 
+
+
